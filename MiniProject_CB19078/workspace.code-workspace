@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "..\\CB19078_reHOT"
+		},
+		{
+			"path": "..\\HOTWEB2020\\HOTWEB2020"
+		},
+		{
+			"path": "..\\hot\\student"
+		}
+	],
+	"settings": {
+		"files.exclude": {
+			"**/.classpath": true,
+			"**/.project": true,
+			"**/.settings": true,
+			"**/.factorypath": true
+		}
+	}
+}
